@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\bin\Debug\net6.0\Calcolatrice.exe
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\bin\Debug\net6.0\Calcolatrice.deps.json
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\bin\Debug\net6.0\Calcolatrice.runtimeconfig.json
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\bin\Debug\net6.0\Calcolatrice.dll
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\bin\Debug\net6.0\Calcolatrice.pdb
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.AssemblyInfo.cs
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.dll
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\obj\Debug\net6.0\refint\Calcolatrice.dll
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.pdb
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\obj\Debug\net6.0\Calcolatrice.genruntimeconfig.cache
+C:\Users\andre\source\repos\Develhope.NET\Calcolatrice\Calcolatrice\obj\Debug\net6.0\ref\Calcolatrice.dll
