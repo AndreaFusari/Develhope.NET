@@ -40,6 +40,7 @@ foreach (Student student in students)
     if (student.Grade > maxGrade)
     {
         maxGrade = student.Grade;
+        
     
     }
 }
@@ -52,6 +53,3 @@ foreach (Student student in students)
         Console.WriteLine(student);
     }
 }
-
-
-
