@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA1711: Gli identificatori non devono includere un suffisso errato
+dotnet_diagnostic.CA1711.severity = silent
