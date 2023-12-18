@@ -4,12 +4,11 @@ using System.Net;
 
 Console.WriteLine("Inserisci un URL");
 
-var url = Console.ReadLine();
+var url = Console.ReadLine() ?? throw new Exception("Null Value") ;
 
-if (url != null) 
-{ 
+
     await Retrieve(url); 
-}
+
 
     async Task<string> Retrieve(string url)
     {
